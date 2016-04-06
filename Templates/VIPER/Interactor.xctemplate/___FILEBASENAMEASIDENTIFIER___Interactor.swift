@@ -9,6 +9,7 @@
 import Foundation
 
 class ___FILEBASENAMEASIDENTIFIER___Interactor: NSObject {
+    var presenter: ___FILEBASENAMEASIDENTIFIER___Presenter!
     // var service: MyService!
 }
 

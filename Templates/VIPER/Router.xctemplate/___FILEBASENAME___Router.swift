@@ -9,12 +9,12 @@
 import UIKit
 
 protocol ___FILEBASENAMEASIDENTIFIER___RouterInput : class {
-  func navigateToSomewhere()
+  
 }
 
 class ___FILEBASENAMEASIDENTIFIER___Router: ___FILEBASENAMEASIDENTIFIER___RouterInput {
     var presenter: ___FILEBASENAMEASIDENTIFIER___Presenter!
-    weak var viewController: ___FILEBASENAMEASIDENTIFIER___ViewController!
+    weak var controller: ___FILEBASENAMEASIDENTIFIER___ViewController!
   
   
 }
